@@ -1,5 +1,7 @@
 # HDB Resale Price Predictor (Group Project)
 
+[![Release](https://img.shields.io/badge/release-v1.0-brightgreen)](https://github.com/JimmyAung/hdb-resale-price-predictor/releases/tag/v1.0)
+
 > Singapore HDB Resale Price Prediction — clean data, EDA, baseline Linear Regression vs XGBoost, feature engineering, and a minimal Streamlit app (demo).
 
 ![Hero](images/hero.png)
@@ -9,6 +11,8 @@
 - **Slides**: business-facing presentation and recommendations.
 - **Trello**: proof of teamwork & process.
 - **(Later)**: `/app` folder with Streamlit code & model.
+- **Latest release:** [v1.0](https://github.com/JimmyAung/hdb-resale-price-predictor/releases/tag/v1.0) — portfolio snapshot (no app code yet; Streamlit planned for v1.1).
+
 
 **Data source:** Kaggle — DSI-SG Project 2 Regression Challenge (HDB Price):
 https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data
@@ -34,4 +38,5 @@ splits referenced in the notebook.
 Team B — Weng Seng, Efdy, Nathaniel, Shadni, Myo Myint Aung (Jimmy).
 
 ![Trello](images/trello.png)
+
 
