@@ -10,10 +10,12 @@
 - **Trello**: proof of teamwork & process.
 - **(Later)**: `/app` folder with Streamlit code & model.
 
-## Data source
-- Kaggle competition (train/test splits):  
-  https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data  
-  *Note:* Data files are **not** included in this repo. See `data/README.md`.
+**Data source:** Kaggle — DSI-SG Project 2 Regression Challenge (HDB Price):
+https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price/data
+
+*Note:* Raw competition data is not included in this repo. Use the original train/test
+splits referenced in the notebook.
+
 
 ## Folder guide
 - `images/` screenshots (Streamlit demo hero, Trello)
@@ -32,3 +34,4 @@
 Team B — Weng Seng, Efdy, Nathaniel, Shadni, Myo Myint Aung (Jimmy).
 
 ![Trello](images/trello.png)
+
