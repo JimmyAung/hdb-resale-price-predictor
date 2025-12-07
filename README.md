@@ -6,6 +6,11 @@
 
 ![Streamlit demo](images/hero1.png)
 
+Scan this QR code to open the live Streamlit app:
+
+![Scan to open HDB Streamlit app](hdb_qr_logo.png)
+
+
 ## What this repo shows
 - **Notebook**: end-to-end EDA → features → models (LR vs XGBoost) → insights.
 - **Slides**: business-facing presentation and recommendations.
