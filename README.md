@@ -4,7 +4,7 @@
 
 > Singapore HDB Resale Price Prediction — clean data, EDA, baseline Linear Regression vs XGBoost, feature engineering, and a minimal Streamlit app (demo).
 
-![Hero](images/hero.png)
+![Streamlit demo](images/hero1.png)
 
 ## What this repo shows
 - **Notebook**: end-to-end EDA → features → models (LR vs XGBoost) → insights.
