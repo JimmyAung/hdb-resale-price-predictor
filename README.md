@@ -8,7 +8,7 @@
 
 Scan this QR code to open the live Streamlit app:
 
-![Scan to open HDB Streamlit app](hdb_qr_logo.png)
+![Scan to open HDB Streamlit app](images/hdb_qr_logo.png)
 
 
 ## What this repo shows
