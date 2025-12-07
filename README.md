@@ -4,11 +4,18 @@
 
 > Singapore HDB Resale Price Prediction — clean data, EDA, baseline Linear Regression vs XGBoost, feature engineering, and a minimal Streamlit app (demo).
 
-![Streamlit demo](images/hero1.png)
+<p align="center">
+  <img src="images/hero1.png" alt="HDB Streamlit demo" />
+</p>
 
-Scan this QR code to open the live Streamlit app:
+Scan this QR code to open the live Streamlit app (or click the link below):
 
-![Scan to open HDB Streamlit app](images/hdb_qr_logo.png)
+<p align="center">
+  <img src="images/hdb_qr_logo.png" alt="QR code for HDB Streamlit app" />
+</p>
+
+**Live app (web link):** https://hdb-resale-price-qr.streamlit.app
+
 
 
 ## What this repo shows
