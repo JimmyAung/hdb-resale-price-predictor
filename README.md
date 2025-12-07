@@ -35,8 +35,9 @@ splits referenced in the notebook.
 3. Data is excluded. Use the original Kaggle train/test splits referenced in the notebook.
 
 ## Credits
-Team B — Weng Seng, Efdy, Nathaniel, Shadni, Myo Myint Aung (Jimmy).
+Team B — Weng Seng, Nathaniel, Shadni, Myo Myint Aung (Jimmy).
 
 ![Trello](images/trello.png)
+
 
 
